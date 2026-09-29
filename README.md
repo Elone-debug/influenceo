@@ -22,24 +22,20 @@ Influenceo is a responsive digital marketing company website designed to showcas
 
 Developed the frontend of the website, including webpage structure, styling, responsive layouts, navigation, and interactive elements.
 
+## Live Demo
+
+[View Influenceo Website](https://elone-debug.github.io/influenceo/)
+
 ## Getting Started
 
-### 1. Clone the repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/Elone-debug/influenceo.git
 ```
 
-### 2. Open the project
-
-Open the project folder in Visual Studio Code.
-
-### 3. Run the website
-
-Open `index.html` using Live Server or directly in a web browser.
+Open the project folder in Visual Studio Code and open `index.html` using Live Server or directly in a web browser.
 
 ## Project Purpose
 
 The project was developed to create a professional online presence for a digital marketing company and showcase its services through a responsive and user-friendly website.
-
-  
